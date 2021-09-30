@@ -1,2 +1,2 @@
 # cuisines-mark-nine
-Created with CodeSandbox
+A web app made with React JS which recommends you dishes according to the cuisine the user chose
